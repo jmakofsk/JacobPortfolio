@@ -17,51 +17,32 @@ I chose this data visualization because... I almost love it. The chart presents 
 
 At first, I wanted to give it a clearer focus/visual hierarchy/emphasis on the most important insights. I felt that the original design presented all categories equally and didn't do a good job at guiding the viewer towards anything in particular.
 
-
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
-
 ## Step three: Sketch a solution
 
-After testing out many different 
+After testing out many different forms of charts and graphs, I eventually landed on the idea of using a slope chart for my new visualization. The first time I sketched the idea out, I had only made the issue worse. My visualization was more visually overwhelming than when I started.
+
+<img width="446" height="480" alt="image" src="https://github.com/user-attachments/assets/fa943c26-de77-4435-a63e-5b7546fc0fdc" />
+
+My second attempt was much clearer and much more focused, but I couldn't help but feel that I had left too much information out of my visualization. 
+
+<img width="592" height="612" alt="image" src="https://github.com/user-attachments/assets/e1db4cf0-ed6c-4aa5-bec7-1f9ae6e924e7" />
+
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+When I spoke with my classmates during our critique, they were able to identify the idea of both of my slope chart sketches, but agreed that the first attempt was too cluttered. When I expressed my concern about leaving too much information out in the second, we brainstormed different solutions. It was during this discussion that we came up with the idea of creating several slope charts for different categories and putting them together in Tableau so that they could be compared directly.
 
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
-
-Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+In the end, this is what I was able to come up with:
+
+<img width="1293" height="888" alt="image" src="https://github.com/user-attachments/assets/e909b250-67c0-4f10-9c5f-126297eb3c86" />
+
+For my final visualization, I used Tableau to create a series of slope charts that can be compared directly to show how President Trump’s approval ratings changed from February 2025 to February 2026 across gender, age, race, and political party. My hope was that this format could allow viewers to easily compare changes within each category while also scanning across categories to identify any broader patterns. I chose a slope chart because the dataset only contains two time points. The line also helps to visualize the direction and magnitude of his support across categories. For color, I used a gradient scale in my graphic, where the darker shades of green represent the larger declines in his approval ratings. This design choice helps create a visual hierarchy by drawing the viewer’s attention to the most significant changes first.
 
 ## References
-_List any references you used here._
+_https://edition.cnn.com/2026/02/23/politics/trump-approval-rating-independents-cnn-poll_
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+I used AI to ask questions about navigating the Tableau interface while I was building my visualization. All design choices and the final visualization were created by me.
