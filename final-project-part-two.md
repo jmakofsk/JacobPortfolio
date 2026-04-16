@@ -7,7 +7,7 @@ In part 1, I came up with several ideas, including a dual-line chart displaying 
 
 <img width="597" height="431" alt="image" src="https://github.com/user-attachments/assets/ef72d4a1-62fd-4c00-ad67-2f790a2973aa" />
 
-Ultimately, after trying several things, I found that overlaying CPI and approval ratings using a dual-axis chart (with CPI on one axis and approval rating on the other) significantly improved the readability and helped me to see a clear correlation between gas prices and approval rating (and notably, no correlation between food costs and approval ratings, which was a surprise to me).
+Ultimately, after trying several things, I found that overlaying CPI and approval ratings using a dual-axis chart (with CPI on one axis and approval rating on the other) significantly improved the readability and helped me to see a potential relationship between gas prices and approval ratings (and notably, no correlation between food costs and approval ratings, which was a surprise to me).
 
 From there, I made the decision to separate the food and gas CPI into two distinct graphs rather than keeping them together. This allowed for clearer comparisons and made the relationships easier to interpret.
 
@@ -67,18 +67,24 @@ Some of the questions I asked included:
         - Less drawn to the food graph
 
 
+
+Across my interviewees, several consistent themes emerged:
+
+        - Participants understood the general purpose of the visualization
+        - Participants were confused by CPI and thus what the numbers on the Y-Axis meant
+        - Participants liked the detail of having the chart display monthly intervals on the X-Axis but felt that it made the chart more visually overwhelming
+        - Participants wanted a clearer takeaway or conclusion
+
 # Identified changes for Part III
 
 In part three, some of the changes I plan to implement include:
 
-- Adding president names to the X-Axis
-- Cleaning up the X-Axis so it is less overwhelming
-- Picking consistent colors (red for the presidential approval rating, orange for gas, green for food)
-- Adding a graph comparing the presidential approval rating to the GDP
-- Finding a way to communicate the meaning of CPI / Consumer Price Index more clearly
-- Improving the titles of the charts
-- Continuing to improve my story
-- Consider finding a way to visualize significant events such as the 2008 financial crisis and the COVID-19 pandemic (maybe annotations?)
+        - To address confusion around CPI → I will simplify and clearly explain what CPI represents
+        - To address lack of clarity in what the takeaway should be → I will improve the chart titles 
+        - To address cluttered visuals on the X-Axis → I will reduce labels to yearly markers and add the president names
+        - To address the lack of context for other factors that took place in the US → I will add annotations for big events that caused inflation spikes
+        - To improve readability → I will pick consistent colors (red for the presidential approval rating, orange for gas, green for food)
+        - I may also add a graph comparing the presidential approval rating to the GDP and will continue to improve my narrative overall
 
 ## References
 “Consumer Price Index for All Urban Consumers: Food at Home in U.S. City Average.” FRED, 11 Mar. 2026, fred.stlouisfed.org/series/CUSR0000SAF11.
