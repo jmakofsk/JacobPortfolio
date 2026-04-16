@@ -38,11 +38,14 @@ For this project, I was fortunate enough to get support from other Heinz College
 The goal of my interview was to figure out how I could make my graph as simple as possible (at this point, I had not yet thought of how my narrative would flow and only had visualizations to share). Because of this, I focused specifically on getting to a place where the average person could look at my graph and understand it without any additional context.
 
 Some of the questions I asked included: 
+
 - What works?
+
         - Clear that you're comparing economic indicators to approval
         - Fairly easy to understand for the most part
         - Timeline is consistent across both charts + splitting gas and food helps a lot
         - Lines overlap surprisingly well with dual axis
+
 - What doesn't work/what would you change?
         - Like that it’s monthly, but I wish it was less messy
         - Hard to immediately understand what CPI means
