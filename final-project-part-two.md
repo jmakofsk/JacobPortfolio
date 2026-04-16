@@ -30,18 +30,14 @@ My target audience is policymakers, politicians, and any individuals who are inv
 To ground this analysis in something very visible to the average American, I focused on gas and grocery prices as representative indicators of economic pressure. Specifically, I am using the "Consumer Price Index for All Urban Consumers: Food at Home in U.S. City Average" and the "Consumer Price Index for All Urban Consumers: Gasoline (All Types) in U.S. City Average." These costs are highly visible, fluctuate regularly, and impact nearly all Americans, making them strong proxies for how individuals perceive the state of the economy. I then paired these indicators with the presidential approval rating by month.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+For this project, I was fortunate enough to get support from other Heinz College students. 
 
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+The goal of my interview was to figure out how I could make my graph as simple as possible. Specifically, I was hoping to get to a place where the average person could look at my graph and understand it without any additional context.
 
+Some of the questions I asked included: 
+- 
 
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
@@ -56,25 +52,20 @@ Text here!
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
+In part three, some of the changes I plan to implement include:
+- Adding president names to the X-Axis
+- Cleaning up the X-Axis so it is less overwhelming
+- Picking consistent colors (red for the presidential approval rating, orange for gas, green for food)
+- Add a graph comparing the presidential approval rating to the GDP
+- Consider finding a way to visualize significant events such as the 2008 financial crisis and the COVID-19 pandemic
 
 ## References
-_List any references you used here._
+“Consumer Price Index for All Urban Consumers: Food at Home in U.S. City Average.” FRED, 11 Mar. 2026, fred.stlouisfed.org/series/CUSR0000SAF11.
+
+“Consumer Price Index for All Urban Consumers: Gasoline (All Types) in U.S. City Average.” FRED, 11 Mar. 2026, fred.stlouisfed.org/series/CUSR0000SETB01.
+
+“Presidential Job Approval Center.” Gallup.Com, Gallup, 17 June 2023, news.gallup.com/interactives/507569/presidential-job-approval-center.aspx.
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+I used AI to help me navigate Tableau and Excel to create my data visualizations.
