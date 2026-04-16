@@ -29,26 +29,17 @@ My target audience is policymakers, politicians, and any individuals who are inv
 
 To ground this analysis in something very visible to the average American, I focused on gas and grocery prices as representative indicators of economic pressure. Specifically, I am using the "Consumer Price Index for All Urban Consumers: Food at Home in U.S. City Average" and the "Consumer Price Index for All Urban Consumers: Gasoline (All Types) in U.S. City Average." These costs are highly visible, fluctuate regularly, and impact nearly all Americans, making them strong proxies for how individuals perceive the state of the economy. I then paired these indicators with the presidential approval rating by month.
 
-## Interview script
+## Interview script & findings
 
 For this project, I was fortunate enough to get support from another Heinz College student. 
 
 The goal of my interview was to figure out how I could make my graph as simple as possible. Specifically, I was hoping to get to a place where the average person could look at my graph and understand it without any additional context.
 
 Some of the questions I asked included: 
-- 
-
-
-## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+- What works?
+- What doesn't work/what would you change?
+- What questions do you have?
+- What was your eye drawn to first?
 
 
 # Identified changes for Part III
@@ -60,6 +51,7 @@ In part three, some of the changes I plan to implement include:
 - Adding a graph comparing the presidential approval rating to the GDP
 - Finding a way to communicate the meaning of CPI / Consumer Price Index more cleanly
 - Improving the titles of the charts
+- Continuing to improve my story
 - Consider finding a way to visualize significant events such as the 2008 financial crisis and the COVID-19 pandemic (maybe annotations?)
 
 ## References
