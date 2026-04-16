@@ -47,28 +47,35 @@ Some of the questions I asked included:
         - Lines overlap surprisingly well with dual axis
 
 - What doesn't work/what would you change?
+
         - Like that it’s monthly, but I wish it was less messy
         - Hard to immediately understand what CPI means
         - Not clear what specifically I’m supposed to be looking for (correlation? trend? causation?)
         - Feels like I need a more specific takeaway
+  
 - What questions do you have?
+  
         - Why does gas seem more connected?
         - Is this adjusted for inflation or already built into CPI?
         - Should I be comparing slopes or just general direction?
+
 - What was your eye drawn to first?
+
         - Gas spikes
         - Sharp drops in approval
         - The crossing/movement of the lines (trying to see if they move together)
         - Less drawn to the food graph
 
+
 # Identified changes for Part III
 
 In part three, some of the changes I plan to implement include:
+
 - Adding president names to the X-Axis
 - Cleaning up the X-Axis so it is less overwhelming
 - Picking consistent colors (red for the presidential approval rating, orange for gas, green for food)
 - Adding a graph comparing the presidential approval rating to the GDP
-- Finding a way to communicate the meaning of CPI / Consumer Price Index more cleanly
+- Finding a way to communicate the meaning of CPI / Consumer Price Index more clearly
 - Improving the titles of the charts
 - Continuing to improve my story
 - Consider finding a way to visualize significant events such as the 2008 financial crisis and the COVID-19 pandemic (maybe annotations?)
