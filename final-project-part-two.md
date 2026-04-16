@@ -31,7 +31,7 @@ To ground this analysis in something very visible to the average American, I foc
 
 ## Interview script
 
-For this project, I was fortunate enough to get support from other Heinz College students. 
+For this project, I was fortunate enough to get support from another Heinz College student. 
 
 The goal of my interview was to figure out how I could make my graph as simple as possible. Specifically, I was hoping to get to a place where the average person could look at my graph and understand it without any additional context.
 
@@ -57,8 +57,10 @@ In part three, some of the changes I plan to implement include:
 - Adding president names to the X-Axis
 - Cleaning up the X-Axis so it is less overwhelming
 - Picking consistent colors (red for the presidential approval rating, orange for gas, green for food)
-- Add a graph comparing the presidential approval rating to the GDP
-- Consider finding a way to visualize significant events such as the 2008 financial crisis and the COVID-19 pandemic
+- Adding a graph comparing the presidential approval rating to the GDP
+- Finding a way to communicate the meaning of CPI / Consumer Price Index more cleanly
+- Improving the titles of the charts
+- Consider finding a way to visualize significant events such as the 2008 financial crisis and the COVID-19 pandemic (maybe annotations?)
 
 ## References
 “Consumer Price Index for All Urban Consumers: Food at Home in U.S. City Average.” FRED, 11 Mar. 2026, fred.stlouisfed.org/series/CUSR0000SAF11.
