@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes/storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: You can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing/storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: You can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
 After experimenting with Tableau, RawGraphs, and Excel, I ultimately created my final visualizations in Excel. 
 
@@ -75,4 +75,4 @@ In part three, some of the changes I plan to implement include:
 “Presidential Job Approval Center.” Gallup.Com, Gallup, 17 June 2023, news.gallup.com/interactives/507569/presidential-job-approval-center.aspx.
 
 ## AI acknowledgements
-I used AI to help me navigate Tableau and Excel to create my data visualizations.
+I used AI tools (specifically ChatGPT) to assist with technical parts of this project, including cleaning and structuring my datasets as well as troubleshooting issues and navigating Excel and Tableau.
