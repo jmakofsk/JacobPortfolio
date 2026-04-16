@@ -1,8 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes/storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing/storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: You can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
-
 After experimenting with Tableau, RawGraphs, and Excel, I ultimately created my final visualizations in Excel. 
 
 In part 1, I came up with several ideas, including a dual-line chart displaying grocery CPI on line 1 and gas CPI on line 2, compared side by side with a line chart displaying the presidential approval ratings. The Y-Axis would have been CPI Index / Approval %, and the X-Axis would have been the same across each year (from 2000 to 2026).
@@ -21,6 +19,10 @@ One of the most surprising insights from this process was the difference in impa
 
 Showing these graphs side by side made this contrast more apparent than when they were overlaid in a single chart.
 
+Here is my proposed (very rough) draft of how my story can go. I hope to use minimal text:
+
+<img width="548" height="792" alt="image" src="https://github.com/user-attachments/assets/5c04c07f-85bf-43b2-8c72-355ccfc4b7e7" />
+
 
 # User research 
 
@@ -31,17 +33,18 @@ To ground this analysis in something very visible to the average American, I foc
 
 ## Interview script & findings
 
-For this project, I was fortunate enough to get support from another Heinz College student. 
+For this project, I was fortunate enough to get support from other Heinz College students who were kind enough to look at my data visualizations and give me feedback. 
 
-The goal of my interview was to figure out how I could make my graph as simple as possible. Specifically, I was hoping to get to a place where the average person could look at my graph and understand it without any additional context.
+The goal of my interview was to figure out how I could make my graph as simple as possible (at this point, I had not yet thought of how my narrative would flow and only had visualizations to share). Because of this, I focused specifically on getting to a place where the average person could look at my graph and understand it without any additional context.
 
 Some of the questions I asked included: 
 - What works?
         - Clear that you're comparing economic indicators to approval
         - Fairly easy to understand for the most part
         - Timeline is consistent across both charts + splitting gas and food helps a lot
+        - Lines overlap surprisingly well with dual axis
 - What doesn't work/what would you change?
-        - Like that it’s monthly, but wish it was less messy
+        - Like that it’s monthly, but I wish it was less messy
         - Hard to immediately understand what CPI means
         - Not clear what specifically I’m supposed to be looking for (correlation? trend? causation?)
         - Feels like I need a more specific takeaway
@@ -53,7 +56,7 @@ Some of the questions I asked included:
         - Gas spikes
         - Sharp drops in approval
         - The crossing/movement of the lines (trying to see if they move together)
-        - Less drawn to food graph
+        - Less drawn to the food graph
 
 # Identified changes for Part III
 
