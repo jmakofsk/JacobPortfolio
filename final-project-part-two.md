@@ -17,15 +17,17 @@ From there, I made the decision to separate the food and gas CPI into two distin
 
 <img width="1101" height="432" alt="image" src="https://github.com/user-attachments/assets/a58586bf-5686-4718-9162-003cf781d4dd" />
 
-One of the most surprising insights from this process was the difference in impact between the two variables. Grocery CPI appeared to have little to no clear relationship with presidential approval ratings, while gas CPI showed a much stronger and more noticeable correlation. Presenting these side by side made this contrast more apparent than when they were overlaid in a single chart.
+One of the most surprising insights from this process was the difference in impact between the two variables. Grocery CPI appeared to have little to no clear relationship with presidential approval ratings, while gas CPI showed a much stronger and more noticeable correlation. 
+
+Showing these graphs side by side made this contrast more apparent than when they were overlaid in a single chart.
 
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+My target audience is policymakers, politicians, and any individuals who are involved in public policy. I was interested in working on this project specifically because I often hear discussions about “the economy” in the media, but this often feels vague and even abstract compared to the very tangible economic conditions the average American experiences on a day-to-day basis. 
 
-Text here!
+To ground this analysis in something very visible to the average American, I focused on gas and grocery prices as representative indicators of economic pressure. Specifically, I am using the "Consumer Price Index for All Urban Consumers: Food at Home in U.S. City Average" and the "Consumer Price Index for All Urban Consumers: Gasoline (All Types) in U.S. City Average." These costs are highly visible, fluctuate regularly, and impact nearly all Americans, making them strong proxies for how individuals perceive the state of the economy. I then paired these indicators with the presidential approval rating by month.
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
