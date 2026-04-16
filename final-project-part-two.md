@@ -7,9 +7,9 @@ In part 1, I came up with several ideas, including a dual-line chart displaying 
 
 <img width="597" height="431" alt="image" src="https://github.com/user-attachments/assets/ef72d4a1-62fd-4c00-ad67-2f790a2973aa" />
 
-Ultimately, after trying several things, I found that overlaying CPI and approval ratings using a dual-axis chart (with CPI on one axis and approval rating on the other) significantly improved the readability and helped me to see a potential relationship between gas prices and approval ratings (and notably, no correlation between food costs and approval ratings, which was a surprise to me).
+Ultimately, after trying several things, I found that overlaying CPI and approval ratings using a dual-axis chart (with CPI on one axis and approval rating on the other) significantly and unexpectedly improved the readability of the chart, which helped me to see a potential relationship between gas prices and approval ratings (and notably, no correlation between food costs and approval ratings, which was a surprise to me).
 
-From there, I made the decision to separate the food and gas CPI into two distinct graphs rather than keeping them together. This allowed for clearer comparisons and made the relationships easier to interpret.
+From there, I made the decision to separate the food and gas CPI into two distinct charts rather than keeping them together. This allowed for clearer comparisons and made the relationships easier to interpret.
 
 <img width="1086" height="618" alt="image" src="https://github.com/user-attachments/assets/1a170880-fe34-439d-b30d-b27a20d4a8f3" />
 
@@ -17,7 +17,7 @@ From there, I made the decision to separate the food and gas CPI into two distin
 
 One of the most surprising insights from this process was the difference in impact between the two variables. Grocery CPI appeared to have little to no clear relationship with presidential approval ratings, while gas CPI showed a much stronger and more noticeable correlation. 
 
-Showing these graphs side by side made this contrast more apparent than when they were overlaid in a single chart.
+Showing these charts side by side made this contrast more apparent than when they were overlaid in a single chart.
 
 Here is my proposed (very rough) draft of how my story can go. I hope to use minimal text:
 
@@ -35,7 +35,7 @@ To ground this analysis in something very visible to the average American, I foc
 
 For this project, I was fortunate enough to get support from other Heinz College students who were kind enough to look at my data visualizations and give me feedback. 
 
-The goal of my interview was to figure out how I could make my graph as simple as possible (at this point, I had not yet thought of how my narrative would flow and only had visualizations to share). Because of this, I focused specifically on getting to a place where the average person could look at my graph and understand it without any additional context.
+The goal of my interview was to figure out how I could make my chart as simple as possible (at this point, I had not yet thought of how my narrative would flow and only had visualizations to share). Because of this, I focused specifically on getting to a place where the average person could look at my chart and understand it without any additional context.
 
 Some of the questions I asked included: 
 
@@ -64,7 +64,7 @@ Some of the questions I asked included:
         - Gas spikes
         - Sharp drops in approval
         - The crossing/movement of the lines (trying to see if they move together)
-        - Less drawn to the food graph
+        - Less drawn to the food chart
 
 
 
@@ -84,7 +84,7 @@ In part three, some of the changes I plan to implement include:
         - To address cluttered visuals on the X-Axis → I will reduce labels to yearly markers and add the president names
         - To address the lack of context for other factors that took place in the US → I will add annotations for big events that caused inflation spikes
         - To improve readability → I will pick consistent colors (red for the presidential approval rating, orange for gas, green for food)
-        - I may also add a graph comparing the presidential approval rating to the GDP and will continue to improve my narrative overall
+        - I may also add a chart comparing the presidential approval rating to the GDP and will continue to improve my narrative overall
 
 ## References
 “Consumer Price Index for All Urban Consumers: Food at Home in U.S. City Average.” FRED, 11 Mar. 2026, fred.stlouisfed.org/series/CUSR0000SAF11.
