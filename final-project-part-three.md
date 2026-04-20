@@ -8,29 +8,40 @@ Text here!
 # Changes made since Part II
 Since completing Part II, I made several changes based on my user interviews. The biggest of these changes was the addition of a third chart! This was the GDP vs. Presidential Approval Rating chart, which ended up showing a nearly uninterrupted upward trend in economic output, but little correlation with the approval ratings. This addition was very helpful for my narrative. If the economy is "doing well" by traditional macro measures, why does public sentiment not reflect that? The gas and food CPI charts help answer that question. My theory is that food prices show little correlation because they are less volatile than gas prices, following a more steady upward trend over time as opposed to fluctuating wildly.
 
-Additionally, I refined my narrative arc. In Part II, I had visualizations but no clear takeaway. In Part III, my story is structured to move the reader from confusion ("the economy looks fine") to recognition ("but gas and groceries tell a different story") to a more concrete call to action.
+Additionally, I refined my narrative arc and changed my audience entirely. In Part II, I had visualizations but no clear takeaway. My audience was politicians. In Part III, my story is structured to move the reader from "the economy looks fine" to recognition that gas and groceries tell a different story. I now focus on American voters and give them a more concrete call to action.
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+My final audience is the everyday American voter. This is someone who needs to fill up their gas tank, buy groceries for their family, and who watches the news. They may not follow economic policy closely, but they have a gut feeling about whether things are going well or not. This project speaks directly to that gut feeling and validates it.
 
-Text here!
+
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+I kept the dual-axis format (CPI on the right, approval rating on the left) because it allows readers to visually track whether the lines move together or diverge. This was surprisingly effective for the gas chart in particular, where the inverse relationship (gas up, approval down, and vice versa) is especially visible.
 
-Text here!
+I used orange for gas CPI, light green for food CPI, dark green for GDP, and a consistent blue for the presidential approval rating across all three charts. This makes it easier to compare across charts without re-learning the legend each time.
+
+The most deliberate narrative choice was adding the GDP chart as a foil. The GDP line climbs steadily but approval ratings do not follow.
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+Works Cited 
+
+“Consumer Price Index for All Urban Consumers: Food at Home in U.S. City Average.” FRED, 11 Mar. 2026, fred.stlouisfed.org/series/CUSR0000SAF11.
+
+“Consumer Price Index for All Urban Consumers: Gasoline (All Types) in U.S. City Average.” FRED, 11 Mar. 2026, fred.stlouisfed.org/series/CUSR0000SETB01.
+
+“Presidential Job Approval Center.” Gallup.Com, Gallup, 17 June 2023, news.gallup.com/interactives/507569/presidential-job-approval-center.aspx.  
+
+“Gross Domestic Product.” FRED, 9 Apr. 2026, fred.stlouisfed.org/series/GDP.
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
-
-Text here!
+I used AI tools (specifically ChatGPT) to assist with technical parts of this project, including cleaning and structuring my datasets as well as troubleshooting issues and navigating Excel and Tableau.
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+This project surprised me in a few meaningful ways. I expected to find that both grocery and gas prices would show a strong relationship with presidential approval (but was wrong about groceries). That unexpected null result ended up being one of the most interesting parts of the story, because it forced me to think about why gas is more politically salient than food. My hypothesis is that food prices show little correlation because they are less volatile than gas prices, following a more steady upward trend over time as opposed to fluctuating wildly.
 
+If I had more time, I would have liked to run a more formal statistical correlation analysis rather than relying on visual pattern-matching, and I would have explored whether the rate of change in gas prices (rather than the absolute CPI level) is an even better predictor of approval shifts. I also would have been interested to see how other economic indicators affect the presidential approval rating (like the price of housing, rent, cars, etc...) 
+
+Overall, this project gave me a much more concrete way to think about the gap between macroeconomic indicators and everyday economic experience.
 Text here!
 
 
