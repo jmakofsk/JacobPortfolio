@@ -6,9 +6,9 @@
 Text here!
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+Since completing Part II, I made several changes based on my user interviews. The biggest of these changes was the addition of a third chart! This was the GDP vs. Presidential Approval Rating chart, which ended up showing a nearly uninterrupted upward trend in economic output, but little correlation with the approval ratings. This addition was very helpful for my narrative. If the economy is "doing well" by traditional macro measures, why does public sentiment not reflect that? The gas and food CPI charts help answer that question. My theory is that food prices show little correlation because they are less volatile than gas prices, following a more steady upward trend over time as opposed to fluctuating wildly.
 
-Text here!
+Additionally, I refined my narrative arc. In Part II, I had visualizations but no clear takeaway. In Part III, my story is structured to move the reader from confusion ("the economy looks fine") to recognition ("but gas and groceries tell a different story") to a more concrete call to action.
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
