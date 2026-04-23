@@ -49,6 +49,3 @@ This project surprised me in a few meaningful ways! When I started, I expected t
 If I had more time, I would have liked to have run a more formal statistical correlation analysis instead of relying on visual pattern-matching, and I would have explored whether the rate of change in gas prices (rather than the absolute CPI level) is an even better predictor of approval shifts. I also would have been interested to see how other economic indicators affect the presidential approval rating (like the price of housing, rent, cars, etc...) 
 
 Overall, this project gave me a much more concrete way to think about the gap between macroeconomic indicators and everyday economic experience.
-Text here!
-
-
