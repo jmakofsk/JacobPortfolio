@@ -2,7 +2,7 @@
 
 # The final data story
 
-[(https://carnegiemellon.shorthandstories.com/telling-stories-with-data-final/index.html](https://carnegiemellon.shorthandstories.com/telling-stories-with-data-final/index.html)
+[https://carnegiemellon.shorthandstories.com/telling-stories-with-data-final/index.html](https://carnegiemellon.shorthandstories.com/telling-stories-with-data-final/index.html)
 
 # Changes made since Part II
 Since completing Part II, I made several changes based on my user interviews. The biggest of these changes was the addition of a third chart! This was the GDP vs. Presidential Approval Rating chart, which ended up showing a nearly uninterrupted upward trend in economic output, but little correlation with the approval ratings. This addition was very helpful for my narrative. If the economy is "doing well" by traditional macro measures, why does public sentiment not reflect that? The gas and food CPI charts help answer that question. My theory is that food prices show little correlation because they are less volatile than gas prices, following a more steady upward trend over time as opposed to fluctuating wildly.
